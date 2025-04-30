@@ -6,21 +6,12 @@ A PowerShell-based File Integrity Monitoring (FIM) solution. This script helps d
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
-
-- <b>Nmap</b>
-- <b>Metasploit Framework (msfconsole)</b> 
-- <b>Linux Shell Commands</b>
-- <b>Exploit Database (via Metasploit)</b>
-
+<h2>Languages and Utilities Used</h2>  
+- <b>PowerShell</b>  
+- <b>SHA-256 Hashing (via PowerShell cmdlets)</b>  
 
 <h2>Environments Used </h2>
-
-- <b>Kali Linux</b> 
-- <b>Metasploitable 2</b> 
-- <b>VirtualBox</b> 
-- <b>Linux Terminal</b>
-
+- <b>Windows 10/11 PowerShell Terminal</b> 
 
 <h2>Lab Overview:</h2>
 <br />
