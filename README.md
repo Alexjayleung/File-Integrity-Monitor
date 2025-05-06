@@ -17,3 +17,6 @@ A PowerShell-based File Integrity Monitoring (FIM) solution. This script helps d
 
 <h2>Lab Overview:</h2>
 <br />
+
+
+<img src="https://i.imgur.com/DBBLW6O.png" height="80%" width="80%" />
